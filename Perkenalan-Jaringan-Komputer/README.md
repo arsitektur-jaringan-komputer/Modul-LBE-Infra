@@ -9,9 +9,7 @@
         * 1.1.1 Pendahuluan
         * 1.1.2 Apa itu jaringan komputer?
         * 1.1.3 Komunikasi data
-        * 1.1.4 Jenis-jenis teknologi jaringan
-        * 1.1.5 Osi Layer
-        * 1.1.6 Internet
+        * 1.1.4 Osi Layer
      * 1.2 Referensi
 
 
@@ -27,4 +25,14 @@ Jaringan komputer adalah sebuah sistem yang terdiri atas komputer, software, dan
 Komunikasi data erat kaitannya dengan jaringan komputer. Istilah "Komunikasi data" berhubungan dengan pengiriman data menggunakan sistem transmisi elektronika dari satu komputer ke komputer yang lain ataupun ke terminal tertentu. Data yang dimaksud adalah sinyal-sinyal elektromagnetik yang dibangkitkan oleh sumber data (transmitter) yang diterima dan dikirimkan kepada terminal-terminal penerima (reveiver). Contoh dari terminal-terminal tersebut adalah peralatan elektronik seperti printer, keyboard, telepon, fax, dll.
 
 ![komdat](images/komunikasidata.jpg)
+
+### 1.1.5 OSI Layer
+
+Pada sebuah jaringan komputer, kehadiran protokol sangat penting untuk menghubungkan antara satu komputer dengan komputer lainnya. Tanpa adanya protokol, maka komputer-komputer tersebut tidak akan bisa saling bertukar informasi.
+
+Protokol jaringan komputer adalah aturan yang ada dalam sebuah jaringan komputer yang harus ditaati oleh pihak pengirim dan penerima agar dapat saling berkomunikasi dan bertukar informasi meskipun memiliki sistem yang berbeda.
+
+Ketika ISO (International Standart Organization) membuat standarisasi protokol, maka terciptalah sebuah standar model referensi yang berisi cara kerja protokol. Model referensi yang kemudian disebut dengan Open System Interconnection (OSI). 
+
+![osi](images/osi-model.png)
 
