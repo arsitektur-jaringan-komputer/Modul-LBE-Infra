@@ -1,2 +1,6 @@
 # Modul-LBE-Infra
-modul tentang infrastruktur sebagai penunjang LBE
+Modul infrastruktur sebagai penunjang LBE
+
+## Materi
+
+1. [Pengenalan Jaringan Komputer](../blob/master/Perkenalan-Jaringan-Komputer)
