@@ -1,16 +1,16 @@
 # 1. Jaringan Komputer
 
 ## Outline
-  *  1\. Jaringan Komputer
+  *  [1\. Jaringan Komputer](##1-Jaringan-Komputer)
 
-     * Outline
-     * 1.1 Konsep
+     * [Outline](##outline)
+     * [1.1 Konsep](##11-konsep)
         
-        * 1.1.1 Pendahuluan
-        * 1.1.2 Apa itu jaringan komputer?
-        * 1.1.3 Komunikasi data
-        * 1.1.4 Osi Layer
-     * 1.2 Referensi
+        * [1.1.1 Pendahuluan](111-pendahuluan)
+        * [1.1.2 Apa itu jaringan komputer?](112-Apa-itu-jaringan-komputer)
+        * [1.1.3 Komunikasi data](113-komunikasi-data)
+        * [1.1.4 Osi Layer](114-osi-layer)
+     * [1.2 Referensi](##referensi)
 
 
 ## 1.1 Konsep
