@@ -48,3 +48,6 @@ Ketika ISO (International Standart Organization) membuat standarisasi protokol, 
 
 
 ## Referensi
+
+* http://www.mikrotik.co.id/artikel_lihat.php?id=59
+* https://books.google.co.id/books?id=LIuACwAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
