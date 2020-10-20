@@ -3,4 +3,4 @@ Modul infrastruktur sebagai penunjang LBE
 
 ## Materi
 
-1. [Pengenalan Jaringan Komputer](../blob/master/Perkenalan-Jaringan-Komputer)
+1. [Pengenalan Jaringan Komputer](../blob/main/Perkenalan-Jaringan-Komputer)
